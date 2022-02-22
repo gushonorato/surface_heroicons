@@ -7,7 +7,7 @@ A collection of [Surface](https://surface-ui.org) Components for all SVG [Heroic
 ```elixir
 def deps do
   [
-    {:surface_heroicons, "~> 0.4.0"}
+    {:surface_heroicons, "~> 0.6"}
   ]
 end
 ```
